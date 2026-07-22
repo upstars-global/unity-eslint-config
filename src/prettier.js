@@ -1,0 +1,9 @@
+export default {
+    bracketSpacing: true,
+    endOfLine: "auto",
+    printWidth: 120,
+    singleQuote: false,
+    tabWidth: 4,
+    trailingComma: "all",
+    useTabs: false,
+};
