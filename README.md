@@ -16,7 +16,7 @@ yarn add --dev unity-eslint-config
 When installing directly from the company Git repository, pin a release tag:
 
 ```bash
-yarn add --dev github:upstars-global/unity-eslint-config#v1.0.0
+yarn add --dev github:upstars-global/unity-eslint-config#v1.0.1
 ```
 
 The package includes ESLint, Prettier, and all required ESLint plugins. Consumer projects install no separate lint dependencies. TypeScript remains an application dependency and is declared as a peer dependency by this package.

@@ -31,8 +31,8 @@ export default tseslint.config(
             "no-async-promise-executor": "warn",
             "no-prototype-builtins": "warn",
             "no-unused-vars": "off",
-            "simple-import-sort/exports": "error",
-            "simple-import-sort/imports": "error",
+            "simple-import-sort/exports": "warn",
+            "simple-import-sort/imports": "warn",
             "unused-imports/no-unused-imports": "error",
             "unused-imports/no-unused-vars": [
                 "warn",
